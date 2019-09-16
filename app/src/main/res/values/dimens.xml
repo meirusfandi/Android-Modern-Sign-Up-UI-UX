@@ -6,4 +6,5 @@
     <dimen name="range">30dp</dimen>
     <dimen name="icon">64dp</dimen>
     <dimen name="full">40dp</dimen>
+    <dimen name="marginBottom">32dp</dimen>
 </resources>
