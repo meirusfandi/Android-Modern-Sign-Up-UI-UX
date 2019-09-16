@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI Sign Up Project</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="sign_up_with_social_media">Sign Up with Social Media</string>
+</resources>
